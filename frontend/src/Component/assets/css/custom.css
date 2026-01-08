@@ -1,0 +1,14 @@
+
+
+.logo-link {
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+.logo-img {
+    height: 50px;
+}
+.logo-text {
+    color: rgb(109, 161, 70);
+    margin: 0;
+}
